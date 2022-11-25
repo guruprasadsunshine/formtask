@@ -88,8 +88,6 @@ let inputformale = document.createElement("input")
 inputformale.setAttribute("class","  form-control")
 inputformale.setAttribute("id","male")
 inputformale.setAttribute("type","radio")
-inputformale.setAttribute("Name","selectone")
-inputformale.setAttribute("value","male")
 formdiv.append(inputformale)
 
 
@@ -103,8 +101,6 @@ let inputforfemale = document.createElement("input")
 inputforfemale.setAttribute("class"," form-control")
 inputforfemale.setAttribute("id","Female")
 inputforfemale.setAttribute("type","radio")
-inputforfemale.setAttribute("Name","selectone")
-inputforfemale.setAttribute("value","Female")
 formdiv.append(inputforfemale)
 
 
